@@ -1,3 +1,8 @@
+<h2 align="center">Dashboard Preview</h2>
+
+<p align="center">
+  <img src="Blinkit Dashboard.png" width="100%">
+</p>
 # Blinkit-Dashboard-Projects
 Interactive Blinkit dashboard project for grocery sales analysis using Pivot Tables, KPI Cards and Charts.
 # Blinkit Grocery Sales Dashboard
