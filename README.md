@@ -1,8 +1,8 @@
 # Blinkit-Dashboard-Projects
-Interactive Excel dashboard project for grocery sales analysis using Pivot Tables, KPI Cards and Charts.
+Interactive Blinkit dashboard project for grocery sales analysis using Pivot Tables, KPI Cards and Charts.
 # Blinkit Grocery Sales Dashboard
 
-Interactive Excel dashboard project built using Microsoft Excel.
+Interactive Blinkit dashboard project built using Microsoft Excel.
 
 ## Features
 - KPI Cards
